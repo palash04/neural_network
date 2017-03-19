@@ -7,5 +7,8 @@
 # Dependencies
 	1.pygame [pygame_doc](https://en.wikipedia.org/wiki/Pygame)
 	2.random
+	3.numpy
+	4.tensorflow
+	
   
   
